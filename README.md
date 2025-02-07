@@ -1,6 +1,6 @@
 # Installing Nexus on a VM using Vagrant (MacOS Apple Silicon chip)
 
-Before beginning check [Starterkit]()
+Before beginning check [Starterkit](https://github.com/wkwwa/wkwwa/blob/main/starterkit.md)
 
 Step 1. Install rosetta
 
