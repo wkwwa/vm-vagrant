@@ -1,4 +1,4 @@
-#  VM on MacOS Apple Silicon chip with Vagrant
+# Installing Nexus on a VM using Vagrant (MacOS Apple Silicon chip)
 
 Before beginning check [Starterkit]()
 
